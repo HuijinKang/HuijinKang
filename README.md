@@ -89,7 +89,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 
 ## My Github Stats
-<img src='./profile-3d-contrib/profile-south-season-animate.svg' width='500px'>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuijinKang&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src='./profile-3d-contrib/profile-south-season-animate.svg' width='500px'>
 </div>
