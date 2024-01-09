@@ -92,4 +92,4 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuijinKang&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
