@@ -93,7 +93,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 </div>
 
 <!--![](./profile-3d-contrib/profile-south-season-animate.svg)-->
-<div width='500px' align="right">
+<div style="width='500px'" align="right">
     
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 </div>
