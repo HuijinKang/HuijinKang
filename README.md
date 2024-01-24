@@ -34,9 +34,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 <div align="center">
 -->
 
-### Contact 📞
-
 <img src='./profile-3d-contrib/profile-green-animate.svg' width='500px' align="right">
+
+### Contact 📞
 
 <div style="display:flex; flex-direction:row;">
     <a href="">
@@ -47,7 +47,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     </a>
 </div><br><br>
 
-
+<img src='./profile-3d-contrib/profile-green-animate.svg' width='500px' align="right">
 
 ### My Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
