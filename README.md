@@ -9,9 +9,9 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 </div>
 -->
 
+<!--
 <div align="center">
 
-<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0FA2BA&text=Welcom🧑🏻‍💻&desc=&fontSize=26&&fontColor=FFFFFF&animation=twinkling&height=150&fontAlignY=30)
 </div><br>
 -->
@@ -29,9 +29,12 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuijinKang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div align="center">
 
-## Contact 📞
+<!--
+<div align="center">
+-->
+
+### Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -41,7 +44,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     </a>
 </div><br><br>
 
-## My Skills ⚒️
+### My Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -76,7 +79,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
      -->
 </div><br><br>
 
-## DEV's log 💻
+### DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@rkd8527">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
@@ -90,8 +93,11 @@ GitHub 통계
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 
-## My Github Stats
+### My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuijinKang&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src='./profile-3d-contrib/profile-green-animate.svg' width='500px'>
+<img src='./profile-3d-contrib/profile-green-animate.svg' width='500px' align="right">
+
+<!--
 </div>
+-->
