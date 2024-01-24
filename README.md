@@ -10,9 +10,11 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 -->
 
 <div align="center">
-    
+
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0FA2BA&text=Welcom🧑🏻‍💻&desc=&fontSize=26&&fontColor=FFFFFF&animation=twinkling&height=150&fontAlignY=30)
 </div><br>
+-->
 
 <!--
 방문자수
