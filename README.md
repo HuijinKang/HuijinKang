@@ -35,6 +35,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 
 ### Contact 📞
+
+<img src='./profile-3d-contrib/profile-green-animate.svg' width='500px' align="right">
+
 <div style="display:flex; flex-direction:row;">
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -42,10 +45,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <a href="mailto:rkd8527@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-
-    <img src='./profile-3d-contrib/profile-green-animate.svg' width='500px' align="right">
-    
 </div><br><br>
+
+
 
 ### My Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
