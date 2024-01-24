@@ -91,7 +91,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     </a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rkd8527)](https://velog.io/@rkd8527)<br>
-</div><br><br>
+</div>
 
 <!--
 GitHub 통계
