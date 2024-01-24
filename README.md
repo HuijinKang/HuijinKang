@@ -37,7 +37,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 ### Contact 📞
 
-<img src='./profile-3d-contrib/profile-green-animate.svg' width='500px' align="right">
+<img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
 
 <div style="display:flex; flex-direction:row;">
     <a href="">
