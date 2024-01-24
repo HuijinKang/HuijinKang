@@ -58,19 +58,19 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     </div>
     <!-- Database -->
-    <p><strong>Database</strong></p>
+    <strong>Database</strong>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     </div>
     <!-- etc -->
-    <p><strong>etc</strong></p>
+    <strong>etc</strong>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </div>
     <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <strong>Frontend</strong>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572`B6?style=flat-square&logo=css3&logoColor=white">
