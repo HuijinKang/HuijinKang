@@ -55,8 +55,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
+    <!-- etc -->
+    <p><strong>etc</strong></p>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
