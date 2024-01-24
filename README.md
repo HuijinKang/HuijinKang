@@ -46,7 +46,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <a href="mailto:rkd8527@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br><br>
+</div><br>
 
 ### My Skills ⚒️
 
@@ -82,7 +82,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     </div>
      -->
-</div><br><br>
+</div><br>
 
 ### DEV's log 💻
 <div style="display:flex; flex-direction:row;">
