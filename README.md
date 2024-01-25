@@ -46,6 +46,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <a href="mailto:rkd8527@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+    <a href="mailto:rkd8527@naver.com">
+        <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
     
     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkd8527@gmail.com)](mailto:rkd8527@gmail.com)
     
