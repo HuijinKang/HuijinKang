@@ -72,7 +72,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <strong>etc</strong>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
     </div>
     <!-- Frontend -->
     <strong>Frontend</strong>
