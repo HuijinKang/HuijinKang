@@ -51,7 +51,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <a href="mailto:rkd8527@naver.com">
         <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
-</div><br>
+</div>
 
 ### My Skills ⚒️
 
@@ -87,7 +87,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     </div>
      -->
-</div><br>
+</div>
 
 ### DEV's log 💻
 <div style="display:flex; flex-direction:row;">
