@@ -38,7 +38,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 ### Contact ✉️
 <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
 
-<div style="display:flex; flex-direction:column;">
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!--
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
@@ -63,8 +63,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <!-- Database -->
     <strong>Database</strong>
     <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
     </div>
     <!-- etc -->
     <strong>etc</strong>
