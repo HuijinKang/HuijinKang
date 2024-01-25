@@ -39,6 +39,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
 
+<div style="display:flex; flex-direction:row;">
     <!--
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -50,6 +51,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <a href="mailto:rkd8527@naver.com">
         <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
+</div><br>
 
 ### My Skills ⚒️
 
