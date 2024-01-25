@@ -13,11 +13,11 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <a href="mailto:rkd8527@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
-    </a>
     <a href="mailto:rkd8527@naver.com">
         <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
+    </a>
+    <a href="mailto:rkd8527@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
 </div>
 
