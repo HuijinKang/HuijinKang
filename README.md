@@ -42,14 +42,14 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 <div style="display:flex; flex-direction:row;">
     <!--
     <a href="">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
     </a>
     -->
     <a href="mailto:rkd8527@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
     <a href="mailto:rkd8527@naver.com">
-        <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+        <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
     </a>
 </div>
 
@@ -71,7 +71,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <!-- etc -->
     <strong>etc</strong>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
     </div>
     <!-- Frontend -->
