@@ -36,10 +36,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 
 ### Contact ✉️
-
 <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
 
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:column;">
     <!--
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
@@ -53,14 +52,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     </a>
 </div>
 
-
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkd8527@gmail.com)](mailto:rkd8527@gmail.com)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkd8527@gmail.com)](mailto:rkd8527@gmail.com)
-
 ### My Skills ⚒️
-
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <strong>Backend</strong>
