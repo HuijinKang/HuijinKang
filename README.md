@@ -55,7 +55,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkd8527@gmail.com)](mailto:rkd8527@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/NAVER MAIL-03C75A?style=flat-square&logo=Naver&logoColor=white"&link=mailto:rkd8527@naver.com)](mailto:rkd8527@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/NAVER MAIL-03C75A?style=flat-square&logo=Naver&logoColor=white"&link=mailto:rkd8527@naver.com)](mailto:rkd8527@naver.com)
 
 ### My Skills ⚒️
 
