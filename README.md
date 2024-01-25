@@ -89,11 +89,11 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 ### DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@rkd8527">
+    <a href="https://velog.io/@huijin">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rkd8527)](https://velog.io/@rkd8527)<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huijin)](https://velog.io/@huijin)<br>
 </div>
 
 <!--
