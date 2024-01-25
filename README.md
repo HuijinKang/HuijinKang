@@ -47,7 +47,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 </div>
 
 ### Studying 📖
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 
 ### DEV's log 💻
 <div style="display:flex; flex-direction:row;">
