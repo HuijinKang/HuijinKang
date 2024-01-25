@@ -26,7 +26,6 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
     <strong>Backend</strong>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> -->
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
     </div>
     <strong>Database</strong>
@@ -46,6 +45,9 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"> 
     </div>
 </div>
+
+### Studying 📖
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 
 ### DEV's log 💻
 <div style="display:flex; flex-direction:row;">
