@@ -9,41 +9,10 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 </div>
 -->
 
-<!--
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0FA2BA&text=Welcom🧑🏻‍💻&desc=&fontSize=26&&fontColor=FFFFFF&animation=twinkling&height=150&fontAlignY=30)
-</div><br>
--->
-
-<!--
-방문자수
-https://hits.seeyoufarm.com/
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHuijinKang&count_bg=%2346A8D7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
--->
-
-<!--
-언어 사용 통계
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuijinKang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-<div align="center">
--->
-
-
 ### Contact ✉️
 <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!--
-    <a href="">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
-    </a>
-    -->
     <a href="mailto:rkd8527@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
@@ -54,37 +23,28 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 ### My Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
     <strong>Backend</strong>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+        <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> -->
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
     </div>
-    <!-- Database -->
     <strong>Database</strong>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
     </div>
-    <!-- etc -->
     <strong>etc</strong>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
     </div>
-    <!-- Frontend -->
     <strong>Frontend</strong>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572`B6?style=flat-square&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"> 
     </div>
-    <!-- Others
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    </div>
-     -->
 </div>
 
 ### DEV's log 💻
@@ -93,19 +53,5 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huijin)](https://velog.io/@huijin)<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huijin)](https://velog.io/@huijin)
 </div>
-
-<!--
-GitHub 통계
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
--->
-
-<!--
-### My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuijinKang&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-</div>
--->
