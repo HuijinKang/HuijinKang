@@ -40,21 +40,18 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
 
 <div style="display:flex; flex-direction:row;">
+    <!--
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
+    -->
     <a href="mailto:rkd8527@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="mailto:rkd8527@naver.com">
         <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
-    
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkd8527@gmail.com)](mailto:rkd8527@gmail.com)
-    
 </div><br>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkd8527@gmail.com)](mailto:rkd8527@gmail.com)
 
 ### My Skills ⚒️
 
