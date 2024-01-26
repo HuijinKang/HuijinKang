@@ -10,7 +10,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 -->
 
 ### Contact ✉️
-<img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
+<img src='./profile-3d-contrib/profile-night-green.svg' width='400px' align="right">
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <a href="mailto:rkd8527@naver.com">
