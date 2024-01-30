@@ -53,9 +53,10 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 <!--
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
 -->
+<div style="display:flex; flex-direction:row;">
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=rkd8527&postId=default&theme=santorini)](https://rkd8527.tistory.com)
-
+<div>
 <!--
     <a href="https://velog.io/@huijin">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
