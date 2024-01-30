@@ -50,7 +50,9 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 
 ### DEV's log 💻
-<div style="display:flex; flex-direction:row;">
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={rkd8527}&postId={default}&theme={santorini})](https://github.com/loosie/github-readme-tistory-card)
+
 <!--
     <a href="https://velog.io/@huijin">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
@@ -58,10 +60,3 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huijin)](https://velog.io/@huijin)
 -->
-
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={rkd8527}&postId={default}&theme={santorini})](https://github.com/loosie/github-readme-tistory-card)
-
-
-</div>
