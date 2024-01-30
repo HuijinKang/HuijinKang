@@ -50,14 +50,8 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 
 ### DEV's log 💻
-<!--
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
--->
-<div style="display:flex; flex-direction:row;">
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&theme=santorini)](https://rkd8527.tistory.com)
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&theme=default)](https://rkd8527.tistory.com)
 <div>
 <!--
     <a href="https://velog.io/@huijin">
