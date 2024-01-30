@@ -51,9 +51,17 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 
 ### DEV's log 💻
 <div style="display:flex; flex-direction:row;">
+<!--
     <a href="https://velog.io/@huijin">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huijin)](https://velog.io/@huijin)
+-->
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={rkd8527}&postId={default}&theme={santorini})](https://github.com/loosie/github-readme-tistory-card)
+
+
 </div>
