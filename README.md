@@ -55,7 +55,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 -->
 <div style="display:flex; flex-direction:row;">
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&postId=default&theme=santorini)](https://rkd8527.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&theme=santorini)](https://rkd8527.tistory.com)
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 <div>
