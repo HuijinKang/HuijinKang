@@ -21,7 +21,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
     </a>
 </div>
 
-#### Skills ⚒️
+### Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <strong>Backend</strong>
     <div>
