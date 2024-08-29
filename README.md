@@ -8,7 +8,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=1000&size=30&duration=3000&pause=7&color=4F4F4F&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+HuijinKang+GitHub!👋)](https://git.io/typing-svg)
 </div>
 -->
-
+<!--
 ### Contact ✉️
 <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
 
@@ -20,7 +20,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
 </div>
-
+-->
 ### Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <strong>Backend</strong>
