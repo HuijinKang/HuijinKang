@@ -8,7 +8,9 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=1000&size=30&duration=3000&pause=7&color=4F4F4F&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+HuijinKang+GitHub!👋)](https://git.io/typing-svg)
 </div>
 -->
+
 <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
+
 <!--
 ### Contact ✉️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -20,6 +22,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
     </a>
 </div>
 -->
+
 ### Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <strong>Backend</strong>
@@ -53,6 +56,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&theme=default)](https://rkd8527.tistory.com)
 <div>
 -->
+    
 <!--
     <a href="https://velog.io/@huijin">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
