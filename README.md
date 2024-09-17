@@ -9,8 +9,6 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 </div>
 -->
 
-<img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
-
 <!--
 ### Contact ✉️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -25,6 +23,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 
 ### Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
     <strong>Backend</strong>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
