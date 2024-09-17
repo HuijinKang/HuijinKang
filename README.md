@@ -58,11 +58,11 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 
 ### Studying 📖
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-<!--
-### DEV's log 💻
 
+### DEV's log 💻
+<a href="https://rkd8527.tistory.com/"><img src="https://img.shields.io/badge/-tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
+<!--
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&theme=default)](https://rkd8527.tistory.com)
-<div>
 -->
     
 <!--
