@@ -38,7 +38,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
     <strong>middleware</strong>
     <div>
         <img src="https://img.shields.io/badge/redis-ff0000?style=flat-square">
-        <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
     </div>
     <strong>cloud</strong>
