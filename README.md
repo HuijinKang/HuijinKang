@@ -33,6 +33,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
     <div>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> -->
+    <!--     
     </div>
     <strong>middleware</strong>
     <div>
@@ -40,6 +41,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
     </div>
+    -->
     <strong>cloud</strong>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
