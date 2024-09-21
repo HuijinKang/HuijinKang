@@ -33,8 +33,8 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
     <div>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> -->
-    <!--     
     </div>
+    <!--
     <strong>middleware</strong>
     <div>
         <img src="https://img.shields.io/badge/redis-ff0000?style=flat-square">
