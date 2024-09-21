@@ -61,10 +61,9 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 ### DEV's log 💻
 <a href="https://rkd8527.tistory.com/"><img src="https://img.shields.io/badge/-tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
 
-
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/HuijinKang"
+    src="https://render.gitanimals.org/lines/HuijinKang?pet-id=625294568796709134"
     width="600"
     height="120"
   />
