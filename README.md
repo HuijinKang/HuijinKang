@@ -23,7 +23,7 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 
 ### Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <img src='./profile-3d-contrib/profile-night-green.svg' width='500px' align="right">
+    <img src='./profile-3d-contrib/profile-night-green.svg' width='400px' align="right">
     <strong>Backend</strong>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -56,28 +56,20 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
     </div>
 </div>
-<!-- 
+
+<!--
 ### Studying 📖
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 ### DEV's log 💻
 <a href="https://rkd8527.tistory.com/"><img src="https://img.shields.io/badge/-tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
 -->
+<!--
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&theme=default)](https://rkd8527.tistory.com)
+-->
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/HuijinKang?pet-id=625294568796709134"
     width="100%"
-    height="120"
+    height="200"
   />
 </a>
-  
-<!--
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&theme=default)](https://rkd8527.tistory.com)
--->
-    
-<!--
-    <a href="https://velog.io/@huijin">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huijin)](https://velog.io/@huijin)
--->
