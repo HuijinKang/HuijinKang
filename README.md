@@ -56,13 +56,12 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
     </div>
 </div>
-
+<!-- 
 ### Studying 📖
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-
 ### DEV's log 💻
 <a href="https://rkd8527.tistory.com/"><img src="https://img.shields.io/badge/-tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
-
+-->
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/HuijinKang?pet-id=625294568796709134"
