@@ -70,6 +70,6 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
   <img
     src="https://render.gitanimals.org/lines/HuijinKang?pet-id=625294568796709134"
     width="100%"
-    height="200"
+    height="150"
   />
 </a>
