@@ -68,8 +68,9 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 -->
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/HuijinKang?pet-id=625294568796709134"
+    src="https://render.gitanimals.org/lines/HuijinKang?pet-id=642278130974699304"
     width="100%"
-    height="150"
+    height="120"
   />
 </a>
+  
