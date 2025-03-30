@@ -27,34 +27,40 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
     <strong>Backend</strong>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
     </div>
-    <strong>Database</strong>
+    <strong>DB</strong>
     <div>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> -->
     </div>
-    <!--
-    <strong>middleware</strong>
+    <strong>Infra</strong>
     <div>
-        <img src="https://img.shields.io/badge/redis-ff0000?style=flat-square">
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-ff0000?style=flat-square&logo=Redis&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-    </div>
-    -->
-    <strong>cloud</strong>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
-        <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white">
     </div>
+    <strong>OS</strong>
+    <div>
+        <img src="https://img.shields.io/badge/linux(Ubuntu)-FCC624?style=flat-square&logo=linux&logoColor=black">
+        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white">
+        <img src="https://img.shields.io/badge/Window-000000?style=flat-square">
+        <!--
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+        <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white">
+        -->
+    </div>
+    <!--
     <strong>etc</strong>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css-1572`B6?style=flat-square&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
     </div>
+    -->
 </div>
 
 <!--
