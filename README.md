@@ -43,16 +43,16 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
     </div>
+    <!--
     <strong>OS</strong>
     <div>
         <img src="https://img.shields.io/badge/linux(Ubuntu)-FCC624?style=flat-square&logo=linux&logoColor=black">
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white">
         <img src="https://img.shields.io/badge/Window-000000?style=flat-square">
-        <!--
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
         <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white">
-        -->
     </div>
+    -->
     <!--
     <strong>etc</strong>
     <div>
@@ -72,11 +72,12 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 <!--
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rkd8527&theme=default)](https://rkd8527.tistory.com)
 -->
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HuijinKang&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/HuijinKang?pet-id=642278130974699304"
-    width="100%"
+    width="600"
     height="120"
   />
 </a>
+  
   
