@@ -26,9 +26,9 @@ https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 <!--     <img src='./profile-3d-contrib/profile-night-green.svg' width='400px' align="right"> -->
     <strong>Backend</strong>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-9C4121?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     </div>
     <strong>DB</strong>
     <div>
